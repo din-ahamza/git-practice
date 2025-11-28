@@ -1,7 +1,7 @@
 print("dina hamza")
 
-fname = "dina"
+Fname = "dina"
 
-lname = "hamza"
+Lname = "hamza"
 
-print(fname + lname)
+print(Fname + Lname)
